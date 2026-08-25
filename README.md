@@ -55,6 +55,8 @@ title(' Frequency Response of Butterworth IIR LPF');
 ```
 
 # OUTPUT: 
+<img width="980" height="1306" alt="image" src="https://github.com/user-attachments/assets/534ec8d0-e123-4a24-945d-784e806de625" />
+<img width="756" height="721" alt="image" src="https://github.com/user-attachments/assets/68e5866b-6c52-4f8a-b873-0397ded5e661" />
 
 
 # RESULT: 
